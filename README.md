@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/chriscomeau/TravisTest.svg?branch=master)](https://travis-ci.org/chriscomeau/TravisTest)
+
 # Travis Test
 
 [Travis CI](https://travis-ci.org) test with iOS project
