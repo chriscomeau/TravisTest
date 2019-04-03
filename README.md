@@ -3,7 +3,7 @@
 [Travis CI](https://travis-ci.org) test with iOS project
 
 
-## Current status
+## Current Travis status
 
 
 [![Build Status](https://travis-ci.org/chriscomeau/TravisTest.svg?branch=master)](https://travis-ci.org/chriscomeau/TravisTest)
@@ -11,7 +11,7 @@
 
 ## Features
 
-- [X] [Travis CI](https://travis-ci.org) automatic builds
+- [X] [Travis CI](https://travis-ci.org)
 - [X] Using [Cocoapods](https://cocoapods.org)
 
  
