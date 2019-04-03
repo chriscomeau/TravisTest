@@ -3,39 +3,22 @@
 [Travis CI](https://travis-ci.org) test with iOS project
 
 
-## Building and Running
+## Current status
 
 
-**In the Terminal:**
-
-
-* To compile:
- 
-```
-cd Flag
-swift build
-```
-
-* To Run:
- 
-```
-cd .build/debug/Flag
-```
+[![Build Status](https://travis-ci.org/chriscomeau/TravisTest.svg?branch=master)](https://travis-ci.org/chriscomeau/TravisTest)
 
 
 ## Features
 
-- [X] Swift Package Manager
-- [X] Swift 5.0
-
+- [X] [Travis CI](https://travis-ci.org) automatic builds
+- [X] Using [Cocoapods](https://cocoapods.org)
 
  
 ## Requirements
 
 - Swift 5.0+
 
-## Screenshots
-...
 
 
 ## Contact

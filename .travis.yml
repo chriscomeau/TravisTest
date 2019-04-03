@@ -1,6 +1,7 @@
 language: objective-c
-xcode_project: TravisTest/TravisTest.xcodeproj
+osx_image: xcode10.2
+#xcode_project: TravisTest/TravisTest.xcodeproj
+xcode_workspace: TravisTest/TravisTest.xcworkspace
 xcode_scheme: TravisTest
 xcode_destination: platform=iOS Simulator,OS=12.2,name=iPhone 8
-
-#podfile: TravisTest/Podfile
+podfile: TravisTest/Podfile
