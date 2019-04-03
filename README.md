@@ -11,7 +11,7 @@
 
 ## Features
 
-- [X] [Travis CI](https://travis-ci.org)
+- [X] [Travis CI](https://travis-ci.org), with Cocoapods caching
 - [X] Using [Cocoapods](https://cocoapods.org)
 
  
