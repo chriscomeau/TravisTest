@@ -1,14 +1,8 @@
-[![Build Status](https://travis-ci.org/chriscomeau/TravisTest.svg?branch=master)](https://travis-ci.org/chriscomeau/TravisTest)
+[![Build Status](https://travis-ci.org/chriscomeau/TravisTest.svg?branch=master)](https://travis-ci.org/chriscomeau/TravisTest) ![](https://img.shields.io/badge/language-Swift%205.0-green.svg) [![Twitter](https://img.shields.io/badge/twitter-@chriscomeau-blue.svg)](http://twitter.com/chriscomeau)
 
 # Travis Test
 
 [Travis CI](https://travis-ci.org) test with iOS project
-
-
-## Current Travis status
-
-
-[![Build Status](https://travis-ci.org/chriscomeau/TravisTest.svg?branch=master)](https://travis-ci.org/chriscomeau/TravisTest)
 
 
 ## Features
