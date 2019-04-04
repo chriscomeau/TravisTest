@@ -6,3 +6,6 @@ xcode_scheme: TravisTest
 xcode_destination: platform=iOS Simulator,OS=12.2,name=iPhone 8
 podfile: TravisTest/Podfile
 cache: cocoapods
+
+before_install:
+  - pod repo update
