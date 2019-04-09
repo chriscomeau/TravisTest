@@ -10,11 +10,10 @@
 - [X] [Travis CI](https://travis-ci.org), with Cocoapods caching
 - [X] Using [Cocoapods](https://cocoapods.org)
 
- 
+
 ## Requirements
 
 - Swift 5.0+
-
 
 
 ## Contact
